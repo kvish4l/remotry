@@ -1,0 +1,26 @@
+
+body{
+background-color: white;
+}
+hr{
+border-style: hidden;
+border-top-style: dotted;
+border-color: black;
+border-width: 4px;
+width: 4%;
+height: 0;
+}
+h1{
+  color: #66BFBF;
+}
+p{
+
+  color: #66BFBF;
+}
+
+h2{
+  color:#66BFBF;
+}
+h3{
+  color:#66BFBF;
+}
